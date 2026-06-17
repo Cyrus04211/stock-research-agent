@@ -1,0 +1,7 @@
+openai>=1.0.0
+yfinance>=0.2.0
+akshare>=1.18.0
+edgartools>=5.0.0
+requests>=2.28.0
+python-dotenv>=1.0.0
+rich>=13.0.0

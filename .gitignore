@@ -1,0 +1,15 @@
+__pycache__/
+.DS_Store
+.env
+output/
+*.pyc
+*.pyo
+
+# Claude Code
+.claude/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
